@@ -1,0 +1,535 @@
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Liquid Technologies Online Tools 1.0 (https://www.liquid-technologies.com) -->
+<items xmlns="http://schemas.openehr.org/v1" xsi:schemaLocation="http://schemas.openehr.org/v1 schema.xsd" xsi:type="INTERVAL_EVENT" archetype_node_id="O_-w-w_.w-w_-w-w-w.v7177.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <name>
+    <value>string</value>
+    <hyperlink />
+    <mappings>
+      <match>?</match>
+      <target>
+        <terminology_id>
+          <value>string</value>
+        </terminology_id>
+        <code_string>string</code_string>
+      </target>
+    </mappings>
+    <mappings>
+      <match>?</match>
+      <target>
+        <terminology_id>
+          <value>string</value>
+        </terminology_id>
+        <code_string>string</code_string>
+      </target>
+    </mappings>
+    <mappings>
+      <match>?</match>
+      <target>
+        <terminology_id>
+          <value>string</value>
+        </terminology_id>
+        <code_string>string</code_string>
+      </target>
+    </mappings>
+    <language>
+      <terminology_id>
+        <value>string</value>
+      </terminology_id>
+      <code_string>string</code_string>
+    </language>
+  </name>
+  <uid xsi:type="OBJECT_VERSION_ID">
+    <value>string</value>
+  </uid>
+  <links>
+    <meaning>
+      <value>string</value>
+    </meaning>
+    <type>
+      <value>string</value>
+    </type>
+    <target />
+  </links>
+  <links>
+    <meaning>
+      <value>string</value>
+    </meaning>
+    <type>
+      <value>string</value>
+    </type>
+    <target />
+  </links>
+  <links>
+    <meaning>
+      <value>string</value>
+    </meaning>
+    <type>
+      <value>string</value>
+    </type>
+    <target />
+  </links>
+  <archetype_details>
+    <archetype_id>
+      <value>string</value>
+    </archetype_id>
+    <rm_version>string</rm_version>
+  </archetype_details>
+  <feeder_audit>
+    <originating_system_item_ids>
+      <issuer>string</issuer>
+      <assigner>string</assigner>
+      <id>string</id>
+      <type>string</type>
+    </originating_system_item_ids>
+    <originating_system_item_ids>
+      <issuer>string</issuer>
+      <assigner>string</assigner>
+      <id>string</id>
+      <type>string</type>
+    </originating_system_item_ids>
+    <originating_system_item_ids>
+      <issuer>string</issuer>
+      <assigner>string</assigner>
+      <id>string</id>
+      <type>string</type>
+    </originating_system_item_ids>
+    <originating_system_item_ids>
+      <issuer>string</issuer>
+      <assigner>string</assigner>
+      <id>string</id>
+      <type>string</type>
+    </originating_system_item_ids>
+    <original_content xsi:type="DV_MULTIMEDIA">
+      <media_type>
+        <terminology_id>
+          <value>string</value>
+        </terminology_id>
+        <code_string>string</code_string>
+      </media_type>
+      <size>-3587</size>
+    </original_content>
+    <originating_system_audit>
+      <system_id>string</system_id>
+    </originating_system_audit>
+  </feeder_audit>
+  <time>
+    <value>772208</value>
+  </time>
+  <data xsi:type="ITEM_TABLE" archetype_node_id="at0.477.1.37">
+    <name>
+      <value>string</value>
+    </name>
+    <uid xsi:type="HIER_OBJECT_ID">
+      <value>string</value>
+    </uid>
+    <links>
+      <meaning>
+        <value>string</value>
+      </meaning>
+      <type>
+        <value>string</value>
+      </type>
+      <target />
+    </links>
+    <links>
+      <meaning>
+        <value>string</value>
+      </meaning>
+      <type>
+        <value>string</value>
+      </type>
+      <target />
+    </links>
+    <links>
+      <meaning>
+        <value>string</value>
+      </meaning>
+      <type>
+        <value>string</value>
+      </type>
+      <target />
+    </links>
+    <links>
+      <meaning>
+        <value>string</value>
+      </meaning>
+      <type>
+        <value>string</value>
+      </type>
+      <target />
+    </links>
+    <archetype_details>
+      <archetype_id>
+        <value>string</value>
+      </archetype_id>
+      <rm_version>string</rm_version>
+    </archetype_details>
+    <rows archetype_node_id="a-www-w_w.w-w-w_-w-w.v04">
+      <name>
+        <value>string</value>
+      </name>
+      <items xsi:type="CLUSTER" archetype_node_id="U-w-w__ww.w-w-ww-w_.v5.0">
+        <name>
+          <value>string</value>
+        </name>
+        <items xsi:type="ELEMENT" archetype_node_id="e-wwww_-www.w_w-ww-w_.v33">
+          <name>
+            <value>string</value>
+          </name>
+        </items>
+      </items>
+    </rows>
+    <rows archetype_node_id="Fw__-w_wwww_-ww_.w.v74.9">
+      <name>
+        <value>string</value>
+      </name>
+      <items xsi:type="ELEMENT" archetype_node_id="I_w-ww-w__w_.w__.v02.0.2.1">
+        <name>
+          <value>string</value>
+        </name>
+      </items>
+    </rows>
+    <rows archetype_node_id="N-w_w-w_.w_w-w.v565">
+      <name>
+        <value>string</value>
+      </name>
+      <items xsi:type="ELEMENT" archetype_node_id="F__-wwww-w___.ww.v3.2">
+        <name>
+          <value>string</value>
+        </name>
+      </items>
+      <items xsi:type="CLUSTER" archetype_node_id="Ow-ww-ww.w-w.v6.4">
+        <name>
+          <value>string</value>
+        </name>
+        <items xsi:type="CLUSTER" archetype_node_id="Jww__-ww-www_www_.w-ww_-w-ww.v3.7.2">
+          <name>
+            <value>string</value>
+          </name>
+          <items xsi:type="CLUSTER" archetype_node_id="H_-w-wwwwww__w.w-w-ww.v85">
+            <name>
+              <value>string</value>
+            </name>
+            <items xsi:type="CLUSTER" archetype_node_id="e-ww_w-w.w.v4">
+              <name>
+                <value>string</value>
+              </name>
+              <items xsi:type="ELEMENT" archetype_node_id="zw_-w-w__ww__.www.v1.8">
+                <name>
+                  <value>string</value>
+                </name>
+              </items>
+            </items>
+          </items>
+        </items>
+      </items>
+      <items xsi:type="CLUSTER" archetype_node_id="at6830.989">
+        <name>
+          <value>string</value>
+        </name>
+        <items xsi:type="CLUSTER" archetype_node_id="cwwww_w_w-ww-w.ww_ww-w.v67367">
+          <name>
+            <value>string</value>
+          </name>
+          <items xsi:type="CLUSTER" archetype_node_id="a_-w-w.w.v20">
+            <name>
+              <value>string</value>
+            </name>
+            <items xsi:type="ELEMENT" archetype_node_id="K-ww_ww_-wwww.w__-w-w.v425.9.1.4.1">
+              <name>
+                <value>string</value>
+              </name>
+            </items>
+          </items>
+        </items>
+      </items>
+      <items xsi:type="ELEMENT" archetype_node_id="a-w-w_.ww-ww_.v79">
+        <name>
+          <value>string</value>
+        </name>
+      </items>
+    </rows>
+  </data>
+  <state xsi:type="ITEM_TABLE" archetype_node_id="awww-w___-ww.w.v9552">
+    <name>
+      <value>string</value>
+    </name>
+    <uid xsi:type="HIER_OBJECT_ID">
+      <value>string</value>
+    </uid>
+    <links>
+      <meaning>
+        <value>string</value>
+      </meaning>
+      <type>
+        <value>string</value>
+      </type>
+      <target />
+    </links>
+    <links>
+      <meaning>
+        <value>string</value>
+      </meaning>
+      <type>
+        <value>string</value>
+      </type>
+      <target />
+    </links>
+    <links>
+      <meaning>
+        <value>string</value>
+      </meaning>
+      <type>
+        <value>string</value>
+      </type>
+      <target />
+    </links>
+    <links>
+      <meaning>
+        <value>string</value>
+      </meaning>
+      <type>
+        <value>string</value>
+      </type>
+      <target />
+    </links>
+    <archetype_details>
+      <archetype_id>
+        <value>string</value>
+      </archetype_id>
+      <rm_version>string</rm_version>
+    </archetype_details>
+    <rows archetype_node_id="sww-w____-w.w-w_____.v3">
+      <name>
+        <value>string</value>
+      </name>
+      <items xsi:type="ELEMENT" archetype_node_id="B-ww_w_ww-w__w_w_.w-ww.v7">
+        <name>
+          <value>string</value>
+        </name>
+      </items>
+      <items xsi:type="CLUSTER" archetype_node_id="aw_-w_w-w.www.v8.3.3.4.8">
+        <name>
+          <value>string</value>
+        </name>
+        <items xsi:type="ELEMENT" archetype_node_id="Sw-ww_w-w.w___.v1.8.1">
+          <name>
+            <value>string</value>
+          </name>
+        </items>
+      </items>
+      <items xsi:type="CLUSTER" archetype_node_id="kw_-wwww__w-w.ww-w.v25.1">
+        <name>
+          <value>string</value>
+        </name>
+        <items xsi:type="ELEMENT" archetype_node_id="P-w__w_-w.w_-w.v6.9">
+          <name>
+            <value>string</value>
+          </name>
+        </items>
+      </items>
+      <items xsi:type="CLUSTER" archetype_node_id="S_-w_www___-ww_w_.w.v0639.0">
+        <name>
+          <value>string</value>
+        </name>
+        <items xsi:type="CLUSTER" archetype_node_id="z_-w____-w_.w-w.v0.8">
+          <name>
+            <value>string</value>
+          </name>
+          <items xsi:type="ELEMENT" archetype_node_id="aww____-ww-w_.w-w-w.v59.3.9.1">
+            <name>
+              <value>string</value>
+            </name>
+          </items>
+        </items>
+      </items>
+    </rows>
+    <rows archetype_node_id="t_ww__w-w-w.w_w_.v4.7">
+      <name>
+        <value>string</value>
+      </name>
+      <items xsi:type="ELEMENT" archetype_node_id="T_-ww_-ww_w.w.v4.0">
+        <name>
+          <value>string</value>
+        </name>
+      </items>
+      <items xsi:type="CLUSTER" archetype_node_id="a-w__w__-wwww__.w-w.v2">
+        <name>
+          <value>string</value>
+        </name>
+        <items xsi:type="ELEMENT" archetype_node_id="e_-w-w.w-w__w-ww__.v29.0.9">
+          <name>
+            <value>string</value>
+          </name>
+        </items>
+      </items>
+      <items xsi:type="ELEMENT" archetype_node_id="R-w-w.w.v57">
+        <name>
+          <value>string</value>
+        </name>
+      </items>
+      <items xsi:type="CLUSTER" archetype_node_id="S__www_wwwww-ww-w.w.v0">
+        <name>
+          <value>string</value>
+        </name>
+        <items xsi:type="ELEMENT" archetype_node_id="a-w__w-w_w.w.v9.2.7">
+          <name>
+            <value>string</value>
+          </name>
+        </items>
+      </items>
+      <items xsi:type="CLUSTER" archetype_node_id="a-www_-w_w.w_www.v1">
+        <name>
+          <value>string</value>
+        </name>
+        <items xsi:type="ELEMENT" archetype_node_id="M-ww-w_____.w.v7760">
+          <name>
+            <value>string</value>
+          </name>
+        </items>
+      </items>
+    </rows>
+    <rows archetype_node_id="I__w-ww_-w_____w__.w__.v1.3.6">
+      <name>
+        <value>string</value>
+      </name>
+      <items xsi:type="ELEMENT" archetype_node_id="R_-w_-w_ww.ww-w-w.v8.0.9.4.1">
+        <name>
+          <value>string</value>
+        </name>
+      </items>
+      <items xsi:type="ELEMENT" archetype_node_id="a__ww-w-w_.w-w-w.v2.4">
+        <name>
+          <value>string</value>
+        </name>
+      </items>
+      <items xsi:type="ELEMENT" archetype_node_id="aw-www-w_w_.ww-w_w_.v574">
+        <name>
+          <value>string</value>
+        </name>
+      </items>
+      <items xsi:type="ELEMENT" archetype_node_id="a-w__-ww.w__.v8">
+        <name>
+          <value>string</value>
+        </name>
+      </items>
+    </rows>
+    <rows archetype_node_id="Dw__w-www______-w_.ww_w.v66">
+      <name>
+        <value>string</value>
+      </name>
+      <items xsi:type="CLUSTER" archetype_node_id="Xw_-w-www.w.v2.8.7.7">
+        <name>
+          <value>string</value>
+        </name>
+        <items xsi:type="ELEMENT" archetype_node_id="a-w-w.w_.v1">
+          <name>
+            <value>string</value>
+          </name>
+        </items>
+      </items>
+      <items xsi:type="CLUSTER" archetype_node_id="at0.4">
+        <name>
+          <value>string</value>
+        </name>
+        <items xsi:type="CLUSTER" archetype_node_id="Www-w-w_.w.v03.6">
+          <name>
+            <value>string</value>
+          </name>
+          <items xsi:type="ELEMENT" archetype_node_id="eww__ww_-w-ww.w_www-w-www-wwww-w_-w.v89">
+            <name>
+              <value>string</value>
+            </name>
+          </items>
+        </items>
+      </items>
+      <items xsi:type="CLUSTER" archetype_node_id="Uw_-www_-w.w.v2.3.3">
+        <name>
+          <value>string</value>
+        </name>
+        <items xsi:type="ELEMENT" archetype_node_id="Www-w-www_www_w___.ww_w_.v24">
+          <name>
+            <value>string</value>
+          </name>
+        </items>
+      </items>
+      <items xsi:type="CLUSTER" archetype_node_id="Mw_-w_-w_.w-w-w.v8.7">
+        <name>
+          <value>string</value>
+        </name>
+        <items xsi:type="CLUSTER" archetype_node_id="O-w_w_w__-w.w-w.v1">
+          <name>
+            <value>string</value>
+          </name>
+          <items xsi:type="CLUSTER" archetype_node_id="a-w_w-w.w-w.v71">
+            <name>
+              <value>string</value>
+            </name>
+            <items xsi:type="CLUSTER" archetype_node_id="f_w_w_w_-ww-ww_.w.v4">
+              <name>
+                <value>string</value>
+              </name>
+              <items xsi:type="CLUSTER" archetype_node_id="a__w-w-w__.w.v2">
+                <name>
+                  <value>string</value>
+                </name>
+                <items xsi:type="CLUSTER" archetype_node_id="aww__-wwww__w_w-w.w-w.v7007">
+                  <name>
+                    <value>string</value>
+                  </name>
+                  <items xsi:type="ELEMENT" archetype_node_id="w-ww_w-w__.w_-ww_.v2">
+                    <name>
+                      <value>string</value>
+                    </name>
+                  </items>
+                </items>
+              </items>
+            </items>
+          </items>
+        </items>
+      </items>
+      <items xsi:type="CLUSTER" archetype_node_id="D-w-w.w.v0.1">
+        <name>
+          <value>string</value>
+        </name>
+        <items xsi:type="ELEMENT" archetype_node_id="q-w-w.www.v8">
+          <name>
+            <value>string</value>
+          </name>
+        </items>
+      </items>
+    </rows>
+  </state>
+  <width>
+    <normal_status>
+      <terminology_id>
+        <value>string</value>
+      </terminology_id>
+      <code_string>string</code_string>
+    </normal_status>
+    <accuracy_is_percent>false</accuracy_is_percent>
+    <value>P</value>
+  </width>
+  <sample_count>-3006</sample_count>
+  <math_function>
+    <value>string</value>
+    <mappings>
+      <match>?</match>
+      <target>
+        <terminology_id>
+          <value>string</value>
+        </terminology_id>
+        <code_string>string</code_string>
+      </target>
+    </mappings>
+    <defining_code>
+      <terminology_id>
+        <value>string</value>
+      </terminology_id>
+      <code_string>string</code_string>
+    </defining_code>
+  </math_function>
+</items>
+

@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>Validate XML clinical document instance</title>
+{% endblock %}
+
+{% block body %}
+<div class="jumbotron">
+<h1>Validator</h1>
+</div>
+
+
+{% if error %}
+{{error | safe}}
+{% endif %}
+
+<div class="container">
+	<form  method="post" enctype="multipart/form-data">
+		{% csrf_token %}
+		<label for="document">Select XML clinical document instance :</label><br>
+		
+		<input type="file" name="document">
+		<button class= "btn btn-primary" type="submit" name="Button" onclick="location.href = '{% url 'validate' %}'">Validate</button>
+	</form>
+</div>
+<hr>
+</div>
+{% endblock %}

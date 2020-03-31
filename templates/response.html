@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>Response</title>
+{% endblock %}
+
+{% block body %}
+<br>
+<div class="container">
+<div class="alert alert-success" role="alert">
+  Document saved successfully
+
+</div>
+<form action="" method="post">
+		{% csrf_token %}
+    	<input type="submit" name="rhome" value="Home">
+		
+</form>
+
+
+</div>
+
+{% endblock %}
